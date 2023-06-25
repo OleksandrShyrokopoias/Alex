@@ -1,0 +1,25 @@
+{
+  "name": "alex",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "consult it",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "",
+    "gulp": "",
+    "gulp-autoprefixer": "",
+    "gulp-clean-css": "",
+    "gulp-plumber": "",
+    "gulp-rigger": "",
+    "gulp-sass": "",
+    "gulp-sourcemaps": "",
+    "gulp-uglify": "",
+    "gulp-watch": "",
+    "rimraf": "",
+    "sass": ""
+  }
+}
